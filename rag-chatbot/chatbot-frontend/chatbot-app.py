@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-AZURE_FUNCTION_URL = 'https://gamyam-func-app.azurewebsites.net/api/userQuery'
+AZURE_FUNCTION_URL = 'https://'
 
 # Function to generate an answer - placeholder for your actual logic
 def generate_answer(question):
