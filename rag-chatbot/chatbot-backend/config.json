@@ -1,0 +1,8 @@
+{
+    "OPENAI_API_KEY":"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",
+    "OPENAI_ORG_ID": "org-wORN92i94zDLvAjEsHPN4Lca",
+    "SEARCH_ENDPOINT" : "https://gamyam-search-dev.search.windows.net",
+    "SEARCH_INDEX_NAME" : "kb-index-dev",
+    "MEMORY_INDEX_NAME": "memory-index-dev",
+    "SEARCH_ADMIN_KEY" : "REzDpSgKV1o5TxnDukJCMDKHnsbtW7ELotLCaERrXjAzSeCMi3Wz"
+}
