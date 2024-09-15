@@ -1,8 +1,8 @@
-# uc-rag-chatbot
+# rag-chatbot
 
-## Bearchat
+## AIchat
 
-**Bearchat** is a course assistant RAG chatbot developed as a proof of concept for the University of Cincinnati's Lindner College of Business. The RAG (Retrieval-Augmented Generation) chatbot is a sophisticated conversational AI system designed to provide accurate and contextually relevant responses by leveraging advanced search and language models.
+AIchat. The RAG (Retrieval-Augmented Generation) chatbot is a sophisticated conversational AI system designed to provide accurate and contextually relevant responses by leveraging advanced search and language models.
 
 This tool is designed to provide students with tailored support for their coursework queries. By leveraging UC’s proprietary documents and instructors' course manuals, Bearchat generates precise, context-specific responses, enhancing the academic experience and streamlining access to essential information. Its integration with the university's academic resources ensures that students receive relevant and timely assistance, ultimately fostering a more efficient and informed learning environment.
 
